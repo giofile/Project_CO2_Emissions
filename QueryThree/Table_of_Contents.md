@@ -3,9 +3,9 @@
 (click on the links)
 
 ## 1. Introduction
-- [Explanation of Methodology and Data Sources](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Overview.ipynb)
+- [Overview of the Analysis for Future Non-Fossil Fuel Energy Costs](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Overview.ipynb)
 
-- [Explanation of Methodology and Data Sources]([#explanation-of-methodology-and-data-sources](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Methodology.ipynb))
+- [Explanation of Methodology and Data Sources](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Methodology.ipynb)
 
 
 ## 2. Analyses
