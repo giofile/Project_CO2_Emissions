@@ -1,16 +1,7 @@
-# Table of Contents for Query One: CO2 Emissions Analysis
+# Table of Contents for Query One
 
-1. **Introduction**
-   - [Overview of CO2 Emissions by Sector](./CO2_project_queryOne.ipynb)
-   - [Explanation of Methodology and Data Sources](./README.md)
+## 1. Introduction
+- [Introduction](https://github.com/giofile/Project_CO2_Emissions/blob/main/QueryOne/intro.ipynb)
 
-2. **Data Sources**
-   - [Global GHG Emissions by Sector](./Global-GHG-Emissions-by-sector-based-on-WRI-2020.xlsx)
-   - [Per Capita CO2 Sector Data](./per-capita-co2-sector.csv)
-   - [OWID CO2 Data](./owid-co2-data.csv)
-   - [Transport Sector CO2 Emissions](./transport-sector-co2-emissions-by-mode-in-the-sustainable-development-scenario-2000-2070.csv)
-
-3. **Analysis**
-   - [CO2 Emissions by Sector Visualization](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryOne/CO2_project_queryOne.ipynb)
-
-*This document provides an overview of the data and analysis conducted for QueryOne, focusing on CO2 emissions by sector and across different time frames.*
+## 2. Analysis
+- [CO2 Project Analysis](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryOne/CO2_project_queryOne.ipynb)
