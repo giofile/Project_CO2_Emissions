@@ -4,4 +4,4 @@
 - [Introduction](https://github.com/giofile/Project_CO2_Emissions/blob/main/QueryOne/intro.ipynb)
 
 ## 2. Analysis
-- [CO2 Project Analysis](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryOne/CO2_project_queryOne.ipynb)
+- [Query2-Analysis](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryOne/CO2_project_queryOne.ipynb)
