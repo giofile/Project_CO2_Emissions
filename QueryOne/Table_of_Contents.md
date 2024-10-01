@@ -1,4 +1,4 @@
-# Table of Contents for Query One
+# Table of Contents for Query One 
 
 ## 1. Introduction
 - [Introduction](https://github.com/giofile/Project_CO2_Emissions/blob/main/QueryOne/intro.ipynb)
