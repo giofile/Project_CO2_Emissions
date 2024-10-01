@@ -12,6 +12,9 @@ This project aims to explore and analyze CO2 emissions data to answer the follow
 
 ### Data Source
 The data for this analysis is sourced from **[Our World in Data](https://ourworldindata.org/)**.
+### Data Source
+The data for this analysis is sourced from **<a href="https://ourworldindata.org/" target="_blank">Our World in Data</a>**.
+
 
 ---
 
