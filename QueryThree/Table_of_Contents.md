@@ -35,7 +35,7 @@
 
 ### 2.2 Investment and Cost Analyses
 - [Investment in Non-Fossil Fuel Technologies](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Colab_Notebooks/Co2_QueryThree_Two__investment.ipynb)
-- [Levelized Cost of Renewable Energy Technologies](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Colab_Notebooks/Co2_QueryThree_One_levelized.ipynb)
+- [Levelized Cost of Renewable Energy Technologies](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Colab_Notebooks/Co2_QueryThree_One__levelized.ipynb)
 
 ## 3. Conclusion
 - [Summary of Key Findings and Future Projections for Non-Fossil Fuel Energy Costs](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Colab_Notebooks/Co2_QueryThree_costs_conclusion.ipynb)
