@@ -27,7 +27,7 @@
 #### 2.1.4 Hydropower
 - [Hydropower Share in Electricity Generation](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Colab_Notebooks/Co2_QueryThree_hydro_share_elec_hydro.ipynb)
 - [Installed Hydropower Capacity Globally](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Colab_Notebooks/Co2_QueryThree_hydro_installed_global_renewable.ipynb)
-- [Hydropower Consumption Trends](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Colab_Notebooks/Co2_QueryThree_hydro_consumption.ipynb)
+- [Hydropower Consumption Trends](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Colab_Notebooks/Co2_QueryThree_hydro_consump.ipynb)
 
 #### 2.1.5 Geothermal Energy
 - [Geothermal Share in Electricity Generation](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Colab_Notebooks/Co2_QueryThree_Geo_share_electricity.ipynb)
