@@ -1,4 +1,4 @@
-# Table of Contents for Query Three: Future Price of Non-Fossil Fuel Technologies
+# Table of Contents for Query Three: Future Price of Non-Fossil Fuel Technologies 
 
 (click on the links)
 
