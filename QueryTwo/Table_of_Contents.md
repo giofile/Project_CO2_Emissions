@@ -1,4 +1,4 @@
-# Table of Contents for Query Two
+# Table of Contents for Query Two 
 
 ## 1. Introduction
 - [Introduction](https://github.com/giofile/Project_CO2_Emissions/blob/main/QueryTwo/intro.ipynb)
