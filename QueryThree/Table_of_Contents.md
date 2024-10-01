@@ -34,7 +34,7 @@
 - [Geothermal Installed Capacity](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Colab_Notebooks/Co2_QueryThree_Geo_installed_geo_cap.ipynb)
 
 ### 2.2 Investment and Cost Analyses
-- [Investment in Non-Fossil Fuel Technologies](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Colab_Notebooks/Co2_QueryThree_Two_investment.ipynb)
+- [Investment in Non-Fossil Fuel Technologies](https://github.com/giofile/Project_CO2_Emissions/blob/main/QueryThree/Colab_Notebooks/Co2_QueryThree_Two_investment.ipynb)
 - [Levelized Cost of Renewable Energy Technologies](https://colab.research.google.com/github/giofile/Project_CO2_Emissions/blob/main/QueryThree/Colab_Notebooks/Co2_QueryThree_One_levelized.ipynb)
 
 ## 3. Conclusion
