@@ -5,7 +5,9 @@
 This project aims to explore and analyze CO2 emissions data to answer the following three key questions:
 
 Query 1. **What is the biggest predictor of a large CO2 output per capita of a country?**- [Query_One](https://github.com/giofile/Project_CO2_Emissions/blob/main/QueryOne/Table_of_Contents.md)
+
 Query 2. **Which countries are making the biggest strides in decreasing CO2 output?** [Query_Two](https://github.com/giofile/Project_CO2_Emissions/blob/main/QueryTwo/Table_of_Contents.md)
+
 Query 3. **Which non-fossil fuel energy technology will have the best price in the future?**[Query_Three](https://github.com/giofile/Project_CO2_Emissions/blob/main/QueryThree/Table_of_Contents.md)
 
 ---
